@@ -9,7 +9,7 @@ body {
 .ba-container {
 	margin: 0 auto;
 	padding: 0;
-	max-width: 800px;
+	max-width: 1200px;
 }
 .ba-search {
 	font-size: 0;
@@ -40,13 +40,14 @@ body {
 }
 .ba-sidebars {
 	font-size: 0;
-	margin: 0 -200px;
+	margin: 0 -20px;
 }
 .ba-sidebars .column{
 	display: inline-block;
 	width: 33.333%;
 	font-size: 14px;
 	padding: 0 20px;
+	vertical-align: top;
 }
 .ba-sidebar-list {
 	list-style: none;
